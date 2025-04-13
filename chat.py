@@ -46,3 +46,6 @@ while True:
 
     except Exception as e:
         print(f"Bot: Sorry, an error occurred: {e}\n")
+
+
+# python d:\project\chatbot\chatbot\chat.py
